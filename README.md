@@ -1,2 +1,7 @@
 # IAP
 internet application programming assignment
+BRIAN MANGI MWERI
+SCT212-0138/2022
+B.SC COMPUTER TECHNOLOGY
+2ND YEAR
+ASSIGNMENT ON IAP
